@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "zedson-watchcraft",
+    "public": ".",
     "ignore": [
       "firebase.json",
       "**/.*",
